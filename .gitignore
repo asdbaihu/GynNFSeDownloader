@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+# Binary output path
+out/
 
 # Log file
 *.log
